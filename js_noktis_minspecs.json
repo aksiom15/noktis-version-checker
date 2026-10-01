@@ -1,0 +1,7 @@
+{
+  "minimumGpu": "RTX 2060",
+  "minimumCpu": "Ryzen 5 2600",
+  "minimumRamCapacity": "16GB",
+  "minimumVram": "4GB",
+  "requireVR":  "true"
+}
