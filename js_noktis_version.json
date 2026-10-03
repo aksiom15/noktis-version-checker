@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.0.1",
-  "minimumVersion": "0.0.1",
-  "updateRequiredMessage": "Your game version of out of date! please update your game to access the latest bug fixes and improvements."
+  "m_latestVersion": "0.0.1",
+  "m_minimumVersion": "0.0.1",
+  "m_outOfDateVersionMessage": "Your game version of out of date! please update your game to access the latest bug fixes and improvements."
   "serversDown": true,
   "buildIteration": 1
-  "updateRequired": false
+  "m_updateRequired": false
 }
